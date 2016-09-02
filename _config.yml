@@ -12,3 +12,7 @@ color:
     - '#9C0041'
     - '#040000'
 name: Morand Studer Photographe
+navigation:
+  - name: Photos
+    url: 'http://morandstuder.com/'
+    type: external
